@@ -1,5 +1,5 @@
 # 💫 About Me:
-    Founded an independent game studio, spearheading the end-to-end development and launch of original titles.<br>    Served as Head Developer and Team Lead at Boss Studios for two years, directing technical strategy and team management.<br>    Engineered custom plugins and internal tools to optimize studio-wide development workflows.<br>    Scaled operations to achieve 450M+ lifetime visits and $310K+ revenue, securing a top 100 studio ranking on the platform.<br><br>    Engineered custom AI Assistants and intelligent automation tools, streamlining complex business workflows end-to-end.<br>    Architected and deployed AI-powered web applications and platforms, integrating LLMs, RAG pipelines, and vector databases.<br>    Built async AI task queues processing 1k+ jobs daily, ensuring reliability and scalable throughput in production.<br>    Delivered full-stack AI solutions from architecture and model integration through to deployment and monitoring.
+    Youngest Google Cloud Expert Developer in all of Western Asia.
 
 
 ## 🌐 Socials:
