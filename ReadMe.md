@@ -56,7 +56,6 @@ I founded **Exodus Planet** and run it as **Founder & CEO**, writing its product
   </tr>
 </table>
 
-**How it's built:** a TypeScript monorepo with a React web app that runs inside Telegram and in any browser, live 3D scenes in Three.js, a Node.js worker and Telegram bot on Fly.io, and Postgres on Supabase with row-level security, Edge Functions and realtime messaging, served from Cloudflare's edge. Every movement of value runs on the server as one audited transaction on a double-entry ledger.
 
 <p align="center">
   <a href="https://exodusplanet.com"><b>Visit exodusplanet.com →</b></a>
