@@ -14,8 +14,8 @@
 
 ## About me
 - Im Tigran, 18 years old nice guy.
-- I'm a software engineer and founder from Yerevan, Armenia. I build products end to end: the product spec, the architecture, the cloud underneath and the interface people actually touch.
-- Also im an official partner of: **[AWS](https://aws.amazon.com/)** | **[Microsoft Azure](https://azure.microsoft.com/en-us)**
+ I'm a software engineer and founder from Yerevan, Armenia. I build products end to end: the product spec, the architecture, the cloud underneath and the interface people actually touch.
+ Currently official partner at : **[AWS](https://aws.amazon.com/)** | **[Microsoft Azure](https://azure.microsoft.com/en-us)** | **[Discord](https://discord.com/)** 
 
 
 - **Founder & CEO of [Exodus Planet](https://exodusplanet.com)**, where I also lead development.
