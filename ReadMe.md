@@ -1,14 +1,77 @@
-# 💫 About Me:
-    Youngest Google Cloud Expert Developer in all of Western Asia.
+<p align="center">
+  <a href="https://exodusplanet.com">
+    <img src="./assets/header.svg" width="100%" alt="Tigran Tigranyan, Founder and CEO of Exodus Planet. Youngest Google Cloud Expert Developer in Western Asia. Yerevan, Armenia." />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://exodusplanet.com"><img src="./assets/link-website.svg" height="40" alt="exodusplanet.com" /></a>&nbsp;
+  <a href="mailto:lotex@exodusplanet.com"><img src="./assets/link-email.svg" height="40" alt="lotex@exodusplanet.com" /></a>&nbsp;
+  <a href="https://www.instagram.com/thetigranyan"><img src="./assets/link-instagram.svg" height="40" alt="Instagram" /></a>
+</p>
+
+<br />
+
+## About me
+Im Tigran, 18 years old nice guy.
+I'm a software engineer and founder from Yerevan, Armenia. I build products end to end: the product spec, the architecture, the cloud underneath and the interface people actually touch.
+Also im an official partner of: **[AWS](https://aws.amazon.com/)** | **[Microsoft Azure](https://azure.microsoft.com/en-us)**
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/thetigranyan) 
+- **Founder & CEO of [Exodus Planet](https://exodusplanet.com)**, where I also lead development.
+- **Youngest Google Cloud Expert Developer** in all of Western Asia.
+- I work across **real-time web apps, cloud infrastructure, 3D graphics, AI/ML and games**, and I like the places where those meet.
 
-# 💻 Tech Stack:
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
----
-[![](https://visitcount.itsvg.in/api?id=itsmeloto&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🪐 Exodus Planet
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://exodusplanet.com">
+    <img src="./assets/exodus-planet.png" width="100%" alt="The Exodus Planet landing page on desktop and phone: One account. Two worlds." />
+  </a>
+</p>
+
+<p align="center">
+  <b>One account. Two worlds.</b><br />
+  A crypto portfolio and trading terminal and a Discord-grade community in one Telegram app, with one identity across both.
+</p>
+
+I founded **Exodus Planet** and run it as **Founder & CEO**, writing its product specification and architecture and leading the engineering. It runs as a **Telegram Mini App** and on the web (in development, with sign-in, sessions and the 3D Launch Pad already live), and the two modes share one account, one in-app economy (Asteroids) and one membership paid with Telegram Stars.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center"><img src="./assets/planet-trading.png" width="150" alt="Planet Trading" /></p>
+      <h3 align="center">Planet Trading</h3>
+      <p align="center"><i>Mission control for your portfolio.</i></p>
+      <p>A data-dense terminal for tracking and practising. On the way: portfolio value, allocation and profit and loss over time, live market data and charts, Paper Trading seasons with leaderboards, and a wallet in early access.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center"><img src="./assets/planet-world.png" width="150" alt="Planet World" /></p>
+      <h3 align="center">Planet World</h3>
+      <p align="center"><i>A community home with the depth of Discord.</i></p>
+      <p>Servers, channels and voice for the people you follow markets with, built for Telegram from day one. On the way: planets with roles and permissions, threads and direct messages, voice rooms, events and watch parties.</p>
+    </td>
+  </tr>
+</table>
+
+**How it's built:** a TypeScript monorepo with a React web app that runs inside Telegram and in any browser, live 3D scenes in Three.js, a Node.js worker and Telegram bot on Fly.io, and Postgres on Supabase with row-level security, Edge Functions and realtime messaging, served from Cloudflare's edge. Every movement of value runs on the server as one audited transaction on a double-entry ledger.
+
+<p align="center">
+  <a href="https://exodusplanet.com"><b>Visit exodusplanet.com →</b></a>
+</p>
+
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
+
+## 🛠️ Tech stack
+
+<p align="center">
+  <img src="./assets/tech-stack.svg" width="100%" alt="Languages: TypeScript, JavaScript, Python, Java, .NET, Lua, Nix. Frontend and 3D: React, Next.js, Vite, Tailwind CSS, Three.js, WebGL, OpenGL. Backend and data: Node.js, NestJS, Express, Supabase, PostgreSQL, MongoDB, Telegram. Cloud: Google Cloud, AWS, Cloudflare, Fly.io, Vercel, Firebase, Oracle. DevOps: GitHub Actions, Docker, Nginx, Git, GitLab. AI and GPU: PyTorch, TensorFlow, MLflow, CUDA. Games: Unreal Engine, Unity, Steam." />
+</p>
+
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
+
+<p align="center">
+  <sub>Building from Yerevan, Armenia 🇦🇲 · <a href="https://exodusplanet.com">exodusplanet.com</a> · <a href="mailto:lotex@exodusplanet.com">lotex@exodusplanet.com</a></sub>
+</p>
